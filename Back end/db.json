@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Quốc Hoàn",
+      "image": "ưertyujhgf",
+      "price": "2335555",
+      "description": "ghfhdfg",
+      "id": 3
+    },
+    {
+      "name": "Quốc Hoàn",
+      "image": "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:quality(100)/2023_11_20_638360873392212025_realme-c51-3gb-64gb-dd.jpg",
+      "price": "233333",
+      "description": "ghjkjhgv",
+      "id": 4
+    },
+    {
+      "name": "nguyễn",
+      "image": "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:quality(100)/2023_11_20_638360873392212025_realme-c51-3gb-64gb-dd.jpg",
+      "price": "222",
+      "description": "Khám phá iPhone 15 Pro với thiết kế khung titan bền nhẹ, màn hình Super Retina XDR 6.1 inch, chip A17 Pro mạnh mẽ và hệ thống camera tiên tiến. Trải nghiệm hiệu suất vượt trội và thời gian sử dụng lâu dài với sạc không dây MagSafe. Đừng bỏ lỡ chiếc smartphone đẳng cấp này!",
+      "id": 7
+    },
+    {
+      "name": "Sản Phẩm 1",
+      "image": "https://cdn2.fptshop.com.vn/unsafe/180x0/filters:quality(100)/phone_cate_0d84a35c3a.png",
+      "price": "10000",
+      "description": "Điện Thoại Đẹpd",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "email": "hoannqph49532@gmail.com",
+      "password": "$2a$10$D.vsbIQ2MqiL1HnWL1TZs.yvUv3qBwKC3/v04IjPvvFlclDqBlcNG",
+      "name": "Hoàn",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "kkk22@gmail.com",
+      "password": "$2a$10$bwgiyMhyhqueuBA0iGr31e4sJFZOMmHkyx5RaHtKjkUfFSpcT6p2K",
+      "name": "kkkdd",
+      "role": "user",
+      "id": 2
+    }
+  ]
+}

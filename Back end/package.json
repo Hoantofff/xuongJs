@@ -1,0 +1,17 @@
+{
+  "name": "jsonsever",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx json-server db.json -m ./node_modules/json-server-auth"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {
+    "json-server-auth": "^2.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
